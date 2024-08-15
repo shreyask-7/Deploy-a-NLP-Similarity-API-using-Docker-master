@@ -41,7 +41,5 @@ Document similarity (or distance between documents) is a one of the central them
 
 - Docker-compose.yml
 
-Thanks! Ore-Aruwaji Tola. 
-
 
 
